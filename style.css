@@ -4,7 +4,7 @@ body {
 .clock_container {
   width: 600px;
   height: 600px;
-  border: 20px solid #4d4c4c;
+  border: 20px solid;
   border-radius: 21px;
   padding-top: 8px;
   background-color: #711e1e;
@@ -34,7 +34,7 @@ body {
   position: absolute;
 }
 .hour-1 {
-  top: 40px;
+  top: 35px;
   right: 130px;
 }
 .hour-2 {
