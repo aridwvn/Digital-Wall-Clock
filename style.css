@@ -162,3 +162,67 @@ body {
   bottom: 90px;
   left: 35%;
 }
+
+@media (max-width: 1000px) {
+  .clock_container {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+  }
+  .clock_body {
+    width: 260px;
+    height: 260px;
+    border-width: 12px;
+  }
+  .point {
+    width: 15px;
+    height: 15px;
+    top: 120px;
+    left: 120px;
+  }
+  .hour {
+    font-size: 15px;
+    display: none;
+  }
+  .brand_name {
+    font-size: 14px;
+    top: 45px;
+    left: 100px;
+  }
+  .minute-hand-container {
+    width: 200px;
+    height: 200px;
+    top: 30px;
+    left: 27px;
+  }
+  .minute-hand .hand {
+    height: 100px;
+    left: 98px;
+  }
+  .minute-hand .arrow {
+    font-size: 18px;
+    left: 94px;
+    top: -2px;
+  }
+  .hour-hand-container {
+    width: 140px;
+    height: 168px;
+    top: 60px;
+    left: 65px;
+  }
+  .hour-hand .hand {
+    height: 70px;
+    left: 78px;
+  }
+  .hour-hand .arrow {
+    font-size: 18px;
+    left: 74px;
+    top: -6px;
+  }
+  #demo {
+    width: 100px;
+    font-size: 14px;
+    bottom: 35px;
+    left: 28%;
+  }
+}
