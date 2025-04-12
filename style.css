@@ -1,6 +1,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+}
 .clock_container {
   width: 600px;
   height: 600px;
