@@ -179,8 +179,8 @@ body {
     border-width: 12px;
   }
   .point {
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     top: 120px;
     left: 120px;
   }
@@ -194,8 +194,8 @@ body {
     left: 100px;
   }
   .minute-hand-container {
-    width: 200px;
-    height: 200px;
+    width: 205px;
+    height: 195px;
     top: 30px;
     left: 27px;
   }
@@ -209,8 +209,8 @@ body {
     top: -2px;
   }
   .hour-hand-container {
-    width: 140px;
-    height: 168px;
+    width: 150px;
+    height: 172px;
     top: 60px;
     left: 65px;
   }
